@@ -54,3 +54,6 @@ test-results/
 
 # Ignore Git hooks and local git settings
 .hooks/
+
+
+vid.mp4
