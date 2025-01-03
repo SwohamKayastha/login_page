@@ -44,13 +44,13 @@ django_security_key = django_secret_key
 
 # Project Screenshots
 ### Login Page:
-![Login Page](img/login2.png)
+![Login Page](https://github.com/SwohamKayastha/login_page/blob/main/img/Login2.png)
 
 ### Register Page:
-![Register Page](img/register.png)
+![Register Page](https://github.com/SwohamKayastha/login_page/blob/main/img/Register.png)
 
 ### Profile Page:
-![Profile Page](img/profile.png)
+![Profile Page](https://github.com/SwohamKayastha/login_page/blob/main/img/Profile.png)
 
 # Running the Servers
 ## Backend:
